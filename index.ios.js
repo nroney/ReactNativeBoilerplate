@@ -12,6 +12,7 @@ import {
   View
 } from 'react-native';
 
+
 export default class ReactNativeBoilerPlate extends Component {
   render() {
     return (
